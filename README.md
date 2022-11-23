@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Sai Rohith</h1>
+<p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=040E13&center=true&width=435&lines=Computer+Science+Student+at+UBC" alt="Typing SVG" /></a><p>
+  
+  
 
 <!--
 **SaiRohithEnumala8373/SaiRohithEnumala8373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
